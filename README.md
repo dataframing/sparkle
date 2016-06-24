@@ -42,6 +42,7 @@ Head over to the folder at the top of this page titled `m0_setup` (that's module
 ### FAQ
 ---
 **How long will this take?**
+
 There's no time limit! Take as long as you'd like (I know I sure will).
 
 **I can't install *package_xyz*. Help?**

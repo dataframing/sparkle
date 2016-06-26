@@ -8,7 +8,7 @@
 3. [FAQ](#faq)
 4. [Contributing](#contributing)
 5. [Contact](#contact)
-6. [License](#LICENSE)
+6. [License](LICENSE)
 
 ### Summary
 ---

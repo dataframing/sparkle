@@ -1,4 +1,5 @@
 # Sparkle
+---
 
 ## Table of Contents
 
@@ -69,7 +70,7 @@ Throughout college I've been able to learn about tons of cool companies and phil
 
 * [Basecamp](https://basecamp.com) and how they're changing what it means to work together
 * The Airbnb Data Science team's [efforts to scale knowledge](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.eyeq3ayze)
-* KhanAcademy's entire premise, which is to to [provide a free, world‑class education for anyone, anywhere](https://www.khanacademy.org/about).
+* KhanAcademy's entire premise, which is to to [provide a free, world‑class education for anyone, anywhere](https://www.khanacademy.org/about)
 
 As a summer data science intern at Basecamp, I got to experience what it meant for people to put people first. That's exactly how this entire idea started: take something hard I've struggled with, make it accessible for other people. Simple as that.
 
@@ -80,7 +81,7 @@ I'm an open-source noob in every sense of the phrase, but feel free to follow Gi
 ---
 ---
 ### Contact
-Feel free to contact me through [email](<mailto:danny.vilela@nyu.edu>) or on [Twitter](https://twitter.com/danny_figgy). Thanks!
+Feel free to contact me through [email](<mailto:danny.vilela@nyu.edu>) or on [Twitter](https://twitter.com/dataframe_). Thanks!
 
 ### LICENSE
 Check out `LICENSE`

@@ -1,5 +1,4 @@
 # Sparkle
----
 
 ## Table of Contents
 
